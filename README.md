@@ -1,2 +1,2 @@
 # mixao
-Termimal-based music player
+Terminal-based music player
